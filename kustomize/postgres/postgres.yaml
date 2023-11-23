@@ -5,7 +5,7 @@ metadata:
 spec:
   image: registry.developers.crunchydata.com/crunchydata/crunchy-postgres:ubi8-15.4-1
   users:
-    - name: wbhr_super
+    - name: wbhrsuper
       options: 'SUPERUSER'
     - name: wbhr
       databases:
